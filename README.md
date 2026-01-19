@@ -23,11 +23,3 @@ Evaluate how promotional activities influence sales outcomes, identify growth op
 
 ## 📈 Outcome / Insights
 Converts raw sales & promotional data into actionable insights for planning, strategy evaluation, and performance optimization.
-
-## 📁 Files Included
-- `.pbix` Power BI dashboard file
-- README documentation
-
-## 👤 Role / Contribution
-End-to-end development including data cleaning, modeling, visualization, a
-
