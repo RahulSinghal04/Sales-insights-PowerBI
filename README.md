@@ -1,25 +1,33 @@
 # Sales-insights-PowerBI
 Designed an interactive Power BI dashboard to analyze sales performance and promotional impact. Features KPIs, category trends, time-series insights, and promotional comparisons for business decision-making. Enables data-driven evaluation of promotional effectiveness and revenue growth opportunities.
 
-Project Overview:-
-This project showcases an interactive Power BI dashboard built to analyze sales performance and promotional impact. The dashboard highlights key business metrics, promotional efficiency, revenue trends, and category-wise insights to support data-driven decision making.
+## 📌 Project Overview
+An interactive Power BI dashboard designed to analyze sales performance and promotional impact. It visualizes key metrics, time-based trends, and product category insights to support data-driven decision making for business stakeholders.
 
-Objective:-
-The goal of the dashboard is to evaluate how promotional activities influence sales outcomes, identify growth opportunities, and provide visibility into performance trends over time.
+## 🎯 Objective
+Evaluate how promotional activities influence sales outcomes, identify growth opportunities, and measure the effectiveness of promotional strategies over time.
 
-Key Features:-
-KPI Overview (Sales, Revenue, Promotion Metrics)
-Sales Trends by Time Period
-Category & Subcategory Performance
-Promotional vs Non-Promotional Sales Comparison
-Insights on Market Demand & Profitability
-Interactive Filters & Slicers for Exploration
+## 🚀 Key Features
+- KPI summary (Sales, Revenue, Profit & Promotions)
+- Time-series sales performance
+- Category & sub-category breakdown
+- Promotional vs non-promotional comparison
+- Interactive slicers & filters
+- Insight-driven visual storytelling
 
-Tools & Technologies Used:-
-Power BI Desktop
-Data Modeling (DAX + Power Query)
-Data Visualization
-Data Cleaning & Transformation
+## 🛠 Tools & Technologies
+- Power BI Desktop
+- Power Query (ETL)
+- DAX (Data Modeling & Calculations)
+- Data Visualization
 
-Outcome:-
-The dashboard supports business analysis, promotional strategy planning, and performance optimization by converting raw data into actionable insights.
+## 📈 Outcome / Insights
+Converts raw sales & promotional data into actionable insights for planning, strategy evaluation, and performance optimization.
+
+## 📁 Files Included
+- `.pbix` Power BI dashboard file
+- README documentation
+
+## 👤 Role / Contribution
+End-to-end development including data cleaning, modeling, visualization, a
+
